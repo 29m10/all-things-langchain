@@ -74,6 +74,8 @@ Examples:
 
 If exceeded, earlier tokens are truncated.
 
+**Resource:** [LLM Interview Series: Context Windows, Memory and Long-Context Reasoning](https://medium.com/@huanzidage/llm-interview-series-context-windows-memory-and-long-context-reasoning-84bdb3ca0e0b) (Medium)
+
 ### Temperature
 
 Controls randomness.
